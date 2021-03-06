@@ -1,0 +1,1774 @@
+/* screen - homehome */
+
+.border-1-2px-soapstone {
+  border: 1.2px solid var(--soapstone);
+}
+.firasans-bold-soapstone-18px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.firasans-bold-soapstone-20px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.firasans-light-soapstone-16px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+}
+.firasans-medium-soapstone-16px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+.firasans-medium-soapstone-20px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.firasans-normal-soapstone-14px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-normal-soapstone-16px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-normal-soapstone-18px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-normal-stack-16px {
+  color: var(--stack);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+}
+.firasans-semi-bold-soapstone-18px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.homehome {
+  background-color: transparent;
+  background-image: url(../img/homehome@1x.png);
+  background-size: 100% 100%;
+  height: 2182px;
+  overflow-x: hidden;
+  position: relative;
+  width: 414px;
+}
+.homehome .about-rotten-to-i70493123142539-CexhX7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 163px;
+}
+.homehome .action-X4xcrQ {
+  background-color: transparent;
+  height: auto;
+  left: 171px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 0px 5.944008827209473px rgba(0,0,0,1.0);;
+  top: 32px;
+  width: 62px;
+}
+.homehome .ad-choices-i70493123142530-xzKrYV {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: 81px;
+}
+.homehome .advertise-i70493123142544-CexhX7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  width: 87px;
+}
+.homehome .audience-CtRApj {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 91px;
+  width: auto;
+}
+.homehome .battery-HALeRN {
+  background-color: transparent;
+  height: 10px;
+  left: 38px;
+  position: absolute;
+  top: 8px;
+  width: 22px;
+}
+.homehome .careers-i70493123142538-CexhX7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  width: 71px;
+}
+.homehome .chris-harrison-bachelor-on-abc-eaNxTj {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 79px;
+  width: 171px;
+}
+.homehome .chris-harrison-controversy-eaNxTj {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 137px;
+}
+.homehome .combined-shape-GVk4Ga {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+.homehome .comedy-X4xcrQ {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 0px 5.944008827209473px rgba(0,0,0,1.0);;
+  top: 32px;
+  width: 71px;
+}
+.homehome .do-not-sell-my-i70493123142529-xzKrYV {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 55px;
+  width: 130px;
+}
+.homehome .drama-X4xcrQ {
+  background-color: transparent;
+  height: auto;
+  left: 599px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 0px 5.944008827209473px rgba(0,0,0,1.0);;
+  top: 32px;
+  width: 60px;
+}
+.homehome .emotional-xfCziT {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 104px;
+}
+.homehome .enter-email-i70493123542600-UbU4Lz {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 87px;
+}
+.homehome .exclude-i8uh5s {
+  background-color: transparent;
+  height: 1px;
+  left: 167px;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+.homehome .facebook-new-1-l4XUbi {
+  background-color: transparent;
+  height: 28px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 35px;
+}
+.homehome .feedback-i70493123142526-xzKrYV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  width: 86px;
+}
+.homehome .footer-1vVbzm {
+  background-color: transparent;
+  height: 500px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.homehome .frame-24-pAx06f {
+  background-color: transparent;
+  height: 156px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 36px;
+  width: 382px;
+}
+.homehome .frame-32-wMRA9C {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 153px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 36px;
+  width: 382px;
+}
+.homehome .frame-34-GidFez {
+  background-color: transparent;
+  height: 304px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 196px;
+  width: 414px;
+}
+.homehome .frame-35-GidFez {
+  background-color: var(--soapstone-2);
+  height: 195px;
+  left: 1px;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 414px;
+}
+.homehome .genre-C61RwL {
+  background-color: transparent;
+  height: 120px;
+  left: 32px;
+  position: absolute;
+  top: 880px;
+  width: 382px;
+}
+.homehome .genre-Vr0LWn {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 36px;
+  width: 382px;
+}
+.homehome .genre-brWuTj {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 62px;
+}
+.homehome .genre-jJ5DCO {
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 36px;
+  width: 382px;
+}
+.homehome .get-all-of-the-i70493123542604-pptnM2 {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 94px;
+  width: 360px;
+}
+.homehome .group-135-X4xcrQ {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 687px;
+}
+.homehome .group-135-gTK56V {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: relative;
+  top: -0px;
+  width: 687px;
+}
+.homehome .group-136-92H41y {
+  background-color: transparent;
+  height: 153px;
+  left: 433px;
+  position: absolute;
+  top: -0px;
+  width: 120px;
+}
+.homehome .group-136-gM550O {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-137-92H41y {
+  background-color: transparent;
+  height: 153px;
+  left: 145px;
+  position: absolute;
+  top: -0px;
+  width: 120px;
+}
+.homehome .group-137-gM550O {
+  background-color: transparent;
+  height: 153px;
+  left: 144px;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-138-92H41y {
+  background-color: transparent;
+  height: 153px;
+  left: 289px;
+  position: absolute;
+  top: -0px;
+  width: 120px;
+}
+.homehome .group-138-gM550O {
+  background-color: transparent;
+  height: 153px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-139-92H41y {
+  background-color: transparent;
+  height: 153px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 120px;
+}
+.homehome .group-139-gM550O {
+  background-color: transparent;
+  height: 153px;
+  left: 433px;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-140-92H41y {
+  background-color: transparent;
+  height: 153px;
+  left: 578px;
+  position: absolute;
+  top: -0px;
+  width: 120px;
+}
+.homehome .group-140-gM550O {
+  background-color: transparent;
+  height: 153px;
+  left: 577px;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-140-xVMSv5 {
+  background-color: transparent;
+  height: 179px;
+  left: 203px;
+  position: absolute;
+  top: 80px;
+  width: 176px;
+}
+.homehome .group-141-xVMSv5 {
+  background-color: transparent;
+  height: 179px;
+  left: 40px;
+  position: absolute;
+  top: 80px;
+  width: 143px;
+}
+.homehome .group-142-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 41px;
+  position: absolute;
+  top: 347px;
+  width: 338px;
+}
+.homehome .group-143-JrCyhx {
+  background-color: transparent;
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 151px;
+  width: 166px;
+}
+.homehome .group-143-eaNxTj {
+  background-color: transparent;
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 151px;
+  width: 166px;
+}
+.homehome .group-156-CtRApj {
+  background-color: transparent;
+  height: 88px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 90px;
+}
+.homehome .group-160-xfQdRR {
+  background-color: transparent;
+  height: 216px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 354px;
+}
+.homehome .group-164-2awlj5 {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 697px;
+}
+.homehome .group-17-20LGM4 {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-17-7tctBT {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-17-9qLPBT {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-17-BGd08M {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-17-FxFvVB {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-17-My4tSA {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-17-bKH0dY {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-17-frWRWR {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-17-gfs87R {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-17-w5PAFY {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+.homehome .group-175-C61RwL {
+  background-color: transparent;
+  height: 113px;
+  left: 243px;
+  position: absolute;
+  top: 517px;
+  width: 90px;
+}
+.homehome .group-176-wMRA9C {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 116px;
+}
+.homehome .group-177-jJ5DCO {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+.homehome .group-178-pAx06f {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 71px;
+}
+.homehome .group-179-Vr0LWn {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 197px;
+}
+.homehome .group-180-yOKXXa {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 58px;
+}
+.homehome .group-181-XkJ5Ln {
+  background-color: transparent;
+  height: 182px;
+  left: 394px;
+  position: absolute;
+  top: 0px;
+  width: 376px;
+}
+.homehome .group-181-mgoQlm {
+  background-color: transparent;
+  height: 182px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 376px;
+}
+.homehome .group-181-pptnM2 {
+  background-color: transparent;
+  height: 58px;
+  left: 32px;
+  position: absolute;
+  top: 18px;
+  width: 268px;
+}
+.homehome .group-216-C61RwL {
+  background-color: var(--licorice-2);
+  border-radius: 4.645746231079102px;
+  height: 29px;
+  left: 186px;
+  position: absolute;
+  top: 246px;
+  width: 42px;
+}
+.homehome .group-223-cRuLgm {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 354px;
+}
+.homehome .group-253-C61RwL {
+  background-color: transparent;
+  height: 216px;
+  left: 32px;
+  position: absolute;
+  top: 152px;
+  width: 354px;
+}
+.homehome .help-i70493123142524-xzKrYV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  width: 44px;
+}
+.homehome .horror-X4xcrQ {
+  background-color: transparent;
+  height: auto;
+  left: 451px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 0px 5.944008827209473px rgba(0,0,0,1.0);;
+  top: 32px;
+  width: 73px;
+}
+.homehome .human-xfCziT {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 74px;
+}
+.homehome .i-phone-x-11-pro-light-base-C61RwL {
+  background-color: transparent;
+  height: 49px;
+  left: 40px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 334px;
+}
+.homehome .icons8-menu-240-3-1-eBci9D {
+  background-color: transparent;
+  height: 44px;
+  left: 307px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 47px;
+}
+.homehome .icons8-search-240-1-eBci9D {
+  background-color: transparent;
+  height: 33px;
+  left: 254px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 36px;
+}
+.homehome .instagram-new-1-l4XUbi {
+  background-color: transparent;
+  height: 36px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 35px;
+}
+.homehome .is-this-his-final-rose-eaNxTj {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: 170px;
+}
+.homehome .keyowrds-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 27px;
+  position: absolute;
+  top: 389px;
+  width: 364px;
+}
+.homehome .left-side-EOLFBp {
+  background-color: transparent;
+  height: 19px;
+  left: 19px;
+  position: absolute;
+  top: 11px;
+  width: 48px;
+}
+.homehome .licensing-i70493123142540-CexhX7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  width: 87px;
+}
+.homehome .mobielfooter-C61RwL {
+  background-color: transparent;
+  height: 500px;
+  left: -1px;
+  position: absolute;
+  top: 1682px;
+  width: 414px;
+}
+.homehome .mobile-signal-HALeRN {
+  background-color: transparent;
+  height: 11px;
+  left: -0px;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+.homehome .new-movies-pa7T5E {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 116px;
+}
+.homehome .new-tv-8PCTxr {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 71px;
+}
+.homehome .newmovies-C61RwL {
+  background-color: transparent;
+  height: 245px;
+  left: 32px;
+  position: absolute;
+  top: 659px;
+  width: 386px;
+}
+.homehome .news-C61RwL {
+  background-color: transparent;
+  height: 18px;
+  left: 32px;
+  position: absolute;
+  top: 1407px;
+  width: 56px;
+}
+.homehome .news-VMr6Om {
+  background-color: transparent;
+  height: 182px;
+  left: 32px;
+  overflow: hidden;
+  position: absolute;
+  top: 1443px;
+  width: 381px;
+}
+.homehome .news-i70493123142525-xzKrYV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  width: 54px;
+}
+.homehome .news-t9qOch {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 58px;
+}
+.homehome .newtv-C61RwL {
+  background-color: transparent;
+  height: 192px;
+  left: 32px;
+  position: absolute;
+  top: 1033px;
+  width: 382px;
+}
+.homehome .notch-EOLFBp {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 334px;
+}
+.homehome .notch-i8uh5s {
+  background-color: transparent;
+  height: 27px;
+  left: 69px;
+  position: absolute;
+  top: -0px;
+  width: 196px;
+}
+.homehome .our-critics-i70493123142543-CexhX7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: 101px;
+}
+.homehome .polygon-1-b4TqnM {
+  background-color: transparent;
+  height: 16px;
+  left: 12px;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}
+.homehome .privacy-policy-i70493123142527-xzKrYV {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 123px;
+}
+.homehome .r-3HnUBD {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 14px;
+}
+.homehome .read-article-PeYmsU {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: 95px;
+}
+.homehome .read-article-x0yXYM {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: 95px;
+}
+.homehome .rectangle-15-1LJZ90 {
+  background-color: transparent;
+  height: 154px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 121px;
+}
+.homehome .rectangle-15-42xsIZ {
+  background-color: transparent;
+  height: 154px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 121px;
+}
+.homehome .rectangle-15-Rm1FrL {
+  background-color: transparent;
+  height: 154px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 121px;
+}
+.homehome .rectangle-15-SN0Mgc {
+  background-color: transparent;
+  height: 154px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 122px;
+}
+.homehome .rectangle-15-Xnwbhu {
+  background-color: transparent;
+  height: 154px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 121px;
+}
+.homehome .rectangle-15-XwLXaV {
+  background-color: transparent;
+  height: 154px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 122px;
+}
+.homehome .rectangle-15-c13zOB {
+  background-color: transparent;
+  height: 154px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 121px;
+}
+.homehome .rectangle-15-e2wmLF {
+  background-color: transparent;
+  height: 154px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 121px;
+}
+.homehome .rectangle-15-ex7u56 {
+  background-color: transparent;
+  height: 154px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 121px;
+}
+.homehome .rectangle-15-ocHxH1 {
+  background-color: transparent;
+  height: 154px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 121px;
+}
+.homehome .rectangle-16-Dj6V4m {
+  background-color: transparent;
+  height: 95px;
+  left: -6px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 131px;
+}
+.homehome .rectangle-16-REZz37 {
+  background-color: transparent;
+  height: 95px;
+  left: -6px;
+  position: absolute;
+  top: -6px;
+  width: 131px;
+}
+.homehome .rectangle-17-Dj6V4m {
+  background-color: transparent;
+  height: 95px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 131px;
+}
+.homehome .rectangle-17-REZz37 {
+  background-color: transparent;
+  height: 95px;
+  left: 136px;
+  position: absolute;
+  top: -6px;
+  width: 131px;
+}
+.homehome .rectangle-18-Dj6V4m {
+  background-color: transparent;
+  height: 95px;
+  left: 278px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 131px;
+}
+.homehome .rectangle-18-REZz37 {
+  background-color: transparent;
+  height: 95px;
+  left: 278px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 131px;
+}
+.homehome .rectangle-19-Dj6V4m {
+  background-color: transparent;
+  height: 95px;
+  left: 420px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 132px;
+}
+.homehome .rectangle-19-REZz37 {
+  background-color: transparent;
+  height: 95px;
+  left: 420px;
+  position: absolute;
+  top: -6px;
+  width: 131px;
+}
+.homehome .rectangle-21-Dj6V4m {
+  background-color: transparent;
+  height: 95px;
+  left: 563px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 131px;
+}
+.homehome .rectangle-21-REZz37 {
+  background-color: transparent;
+  height: 95px;
+  left: 563px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 131px;
+}
+.homehome .rectangle-22-JrCyhx {
+  background-color: var(--soapstone);
+  box-shadow: 0px 0px 3.5994722843170166px rgba(0,0,0,0.25);;
+  height: 182px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+.homehome .rectangle-22-eaNxTj {
+  background-color: var(--soapstone);
+  box-shadow: 0px 0px 3.5994722843170166px rgba(0,0,0,0.25);;
+  height: 182px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+.homehome .rectangle-27-jDgi8F {
+  background-color: transparent;
+  height: 217px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 354px;
+}
+.homehome .rectangle-30-UbU4Lz {
+  background-color: var(--soapstone);
+  border-radius: 20px;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 264px;
+}
+.homehome .rectangle-31-pptnM2 {
+  background-color: var(--barossa);
+  border-radius: 20px;
+  height: 26px;
+  left: 302px;
+  position: absolute;
+  top: 50px;
+  width: 88px;
+}
+.homehome .rectangle-4-PeYmsU {
+  background-color: rgba(63,8,43,1.0);
+  border-radius: 13.609945297241211px;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+.homehome .rectangle-4-x0yXYM {
+  background-color: rgba(63,8,43,1.0);
+  border-radius: 13.609945297241211px;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+.homehome .rectangle-54-JrCyhx {
+  background-color: transparent;
+  height: 183px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 182px;
+}
+.homehome .rectangle-54-mgoQlm {
+  background-color: transparent;
+  height: 183px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 182px;
+}
+.homehome .rectangle-60-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 69px;
+  width: 414px;
+}
+.homehome .rectangle-67-C61RwL {
+  background-color: var(--black);
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.homehome .rectangle-GVk4Ga {
+  background-color: transparent;
+  height: 11px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+.homehome .rectangle-b7cH4j {
+  background-color: transparent;
+  height: 7px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+.homehome .right-side-EOLFBp {
+  background-color: transparent;
+  height: 18px;
+  left: 262px;
+  position: absolute;
+  top: 7px;
+  width: 59px;
+}
+.homehome .romance-X4xcrQ {
+  background-color: transparent;
+  height: auto;
+  left: 304px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 0px 5.944008827209473px rgba(0,0,0,1.0);;
+  top: 32px;
+  width: 82px;
+}
+.homehome .rotten-tomatoes-i70493123142531-xVMSv5 {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 82px;
+}
+.homehome .rt-logo-1-eBci9D {
+  background-color: transparent;
+  height: 1px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+.homehome .rt-logored-1-C61RwL {
+  background-color: transparent;
+  height: 46px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 91px;
+}
+.homehome .sign-up-for-our-i70493123542598-UbU4Lz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 266px;
+}
+.homehome .sign-up-i70493123542602-pptnM2 {
+  background-color: transparent;
+  height: auto;
+  left: 317px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 61px;
+}
+.homehome .social-1vVbzm {
+  background-color: transparent;
+  height: 39px;
+  left: 195px;
+  position: absolute;
+  top: 216px;
+  width: 195px;
+}
+.homehome .span0-ep8MaC {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.homehome .span1-ep8MaC {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.homehome .span2-ep8MaC {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+}
+.homehome .streaming-C61RwL {
+  background-color: transparent;
+  height: 118px;
+  left: 32px;
+  position: absolute;
+  top: 1257px;
+  width: 382px;
+}
+.homehome .streaming-services-VguZ40 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 197px;
+}
+.homehome .strong-acting-xfCziT {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 125px;
+}
+.homehome .submit-a-review-i70493123142542-CexhX7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 55px;
+  width: 113px;
+}
+.homehome .synopsis-riz-ah-touching-drama-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  top: 421px;
+  width: 356px;
+}
+.homehome .take-a-look-at-directors-more-JrCyhx {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  width: 171px;
+}
+.homehome .terms-and-polic-i70493123142528-xzKrYV {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: 123px;
+}
+.homehome .time-dark-base-hI0s9J {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 48px;
+}
+.homehome .time-light-base-E9TXmb {
+  background-color: transparent;
+  border-radius: 28.501333236694336px;
+  height: 19px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 48px;
+}
+.homehome .tomatometer-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 608px;
+  width: auto;
+}
+.homehome .topnav-C61RwL {
+  background-color: transparent;
+  height: 45px;
+  left: 32px;
+  position: absolute;
+  top: 49px;
+  width: 354px;
+}
+.homehome .trending-now-C61RwL {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 110px;
+  width: 174px;
+}
+.homehome .twitter-1-l4XUbi {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 35px;
+}
+.homehome .unsubscribe-at-i70493123542603-pptnM2 {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 139px;
+  width: 202px;
+}
+.homehome .untitled-artwork-5-2-php4pG {
+  background-color: transparent;
+  height: 89px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 89px;
+}
+.homehome .untitled-artwork-7-2-C61RwL {
+  background-color: transparent;
+  height: 97px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 511px;
+  width: 98px;
+}
+.homehome .view-all-0lph0I {
+  background-color: transparent;
+  height: auto;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 227px;
+  width: 68px;
+}
+.homehome .view-all-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 327px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 1035px;
+  width: 68px;
+}
+.homehome .view-all-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 327px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 1262px;
+  width: 68px;
+}
+.homehome .view-all-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 328px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 1412px;
+  width: 68px;
+}
+.homehome .view-all-wMRA9C {
+  background-color: transparent;
+  height: auto;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 5px;
+  width: 68px;
+}
+.homehome .whats-the-tomat-i70493123142541-CexhX7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: 164px;
+}
+.homehome .which-films-will-win-JrCyhx {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 179px;
+}
+.homehome .wifi-HALeRN {
+  background-color: transparent;
+  height: 11px;
+  left: 19px;
+  position: absolute;
+  top: 8px;
+  width: 14px;
+}
+.homehome .x120-mins-3HnUBD {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 75px;
+}
+.homehome .x2019-3HnUBD {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 297px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 37px;
+}
+.homehome .x2021-oscar-buzz-JrCyhx {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 153px;
+}
+.homehome .x91-php4pG {
+  background-color: transparent;
+  color: rgba(255,252,249,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 0px 5.944008827209473px rgba(0,0,0,1.0);;
+  top: 40px;
+  width: 41px;
+}
+.homehome .x941-mW30fC {
+  background-color: transparent;
+  height: 11px;
+  left: 10px;
+  position: absolute;
+  top: 4px;
+  width: 27px;
+}
+.homehome .youtube-1-l4XUbi {
+  background-color: transparent;
+  height: 29px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 35px;
+}
+:root {
+  --barossa: rgba(71,5,44,1.0);
+  --black: rgba(6,2,5,1.0);
+  --black-2: rgba(0,0,0,1.0);
+  --licorice: rgba(21,21,21,1.0);
+  --licorice-2: rgba(21,21,21,0.1);
+  --soapstone: rgba(255,249,252,1.0);
+  --soapstone-2: rgba(255,249,252,0.4);
+  --stack: rgba(135,139,136,1.0);
+  --white: rgba(255,255,255,1.0);
+}

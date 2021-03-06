@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/tomatometer.css" />
+    <link rel="stylesheet" type="text/css" href="css/menu1.css" />
+    <link rel="stylesheet" type="text/css" href="css/othersearch2.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Fira+Sans:700italic,300,500,400,400italic,600,700");
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0">
+    <input type="hidden" id="anPageName" name="page" value="tomatometer" />
+    <div class="container-center-horizontal">
+      <div class="tomatometer screen">
+        <div class="the-tomatometer-C61RwL">THE TOMATOMETER</div>
+        <div class="now-that-youre-start-watching-C61RwL firasans-bold-soapstone-18px">
+          Now that you’re a tomatometer expert, go see whats fresh and start watching!
+        </div>
+        <div class="the-tomatometer-trusted-critics-C61RwL">
+          The tomatometer shows how many positive reviews a movie or television show recieves from our trusted critics.
+        </div>
+        <div class="group-169-C61RwL">
+          <div class="see-a-score-of-sider-it-rotten-FXX1ZD firasans-normal-soapstone-18px">
+            <span class="span0-fGE3xP"
+              >See a score of 75? That means 75 percent of reviews for that movie or show were positive. </span
+            ><span class="span1-fGE3xP"
+              >Anything that recieves a rating of 60 or higher is FRESH. Only scored 45? Consider it ROTTEN. <br
+            /></span>
+          </div>
+          <div class="a-movie-needs-a-not-be-out-yet-FXX1ZD firasans-normal-soapstone-18px">
+            A movie needs at least 5 reviews to be scored, so if you don’t see a score it might not have enough reviews.
+            Or, it just might not be out yet.
+          </div>
+          <div class="when-a-movie-co-equired-viewing-FXX1ZD firasans-bold-soapstone-18px">
+            <span class="span0-CmnYuc"
+              >When a movie consistently scores a 75 or better and has been reviewed by at least 5 of our top critics we
+              call that CERTIFIED FRESH. </span
+            ><span class="span1-CmnYuc"
+              >When you see a movie that’s certified, consider it required viewing.<br
+            /></span>
+          </div>
+          <div class="now-what-if-you-mean-i-will-too-FXX1ZD firasans-normal-soapstone-18px">
+            Now, what if you want to know what viewers like you think? Sure, the critics love it, but does that mean I
+            will too?
+          </div>
+          <div class="in-addition-to-ust-not-out-yet-FXX1ZD firasans-normal-soapstone-18px">
+            <span class="span0-IuOWwz">In addition to our critics, we also offer an </span
+            ><span class="span1-IuOWwz">audience score. If at least 60% percent of users give a positive rating</span
+            ><span class="span2-IuOWwz">, you better believe thats </span><span class="span3-IuOWwz">FRESH</span
+            ><span class="span4-IuOWwz">. On the flip side, if its </span
+            ><span class="span5-IuOWwz">mostly negative ratings</span
+            ><span class="span6-IuOWwz">, we’re going to have to call that </span
+            ><span class="span7-IuOWwz">ROTTEN</span
+            ><span class="span8-IuOWwz"
+              >. If there is no audience score, chances are the movie or show doesn’t have anough reviews or it’s just
+              not out yet.</span
+            >
+          </div>
+        </div>
+        <a href="movies.html"> <div class="rectangle-3-C61RwL"></div></a>
+        <a href="tv.html"> <div class="rectangle-4-C61RwL"></div></a>
+        <div class="browse-movies-C61RwL">BROWSE MOVIES</div>
+        <div class="browse-tv-C61RwL">BROWSE TV</div>
+        <div class="group-170-C61RwL">
+          <img class="untitled-artwork-5-5-PXn7xL" src="img/untitled-artwork-5-5-1@2x.svg" />
+          <img class="untitled-artwork-9-4-PXn7xL" src="img/untitled-artwork-9-4@2x.svg" />
+          <img class="untitled-artwork-7-3-PXn7xL" src="img/untitled-artwork-7-3@2x.svg" />
+          <div class="certified-fresh-PXn7xL">CERTIFIED FRESH</div>
+          <div class="fresh-PXn7xL">FRESH</div>
+          <div class="rotten-PXn7xL">ROTTEN</div>
+        </div>
+        <div class="mobielfooter-C61RwL">
+          <div class="footer-1vVbzm">
+            <div class="frame-34-GidFez">
+              <div class="group-141-xVMSv5">
+                <div class="help-i70495273142524-xzKrYV firasans-normal-soapstone-14px">Help</div>
+                <div class="news-i70495273142525-xzKrYV firasans-normal-soapstone-14px">News</div>
+                <div class="feedback-i70495273142526-xzKrYV firasans-normal-soapstone-14px">Feedback</div>
+                <div class="privacy-policy-i70495273142527-xzKrYV firasans-normal-soapstone-14px">Privacy Policy</div>
+                <div class="terms-and-polic-i70495273142528-xzKrYV firasans-normal-soapstone-14px">
+                  Terms and Policies
+                </div>
+                <div class="do-not-sell-my-i70495273142529-xzKrYV firasans-normal-soapstone-14px">
+                  Do Not Sell My Info
+                </div>
+                <div class="ad-choices-i70495273142530-xzKrYV firasans-normal-soapstone-14px">Ad Choices</div>
+              </div>
+              <a href="homehome.html"
+                ><div class="rotten-tomatoes-i70495273142531-xVMSv5 firasans-semi-bold-soapstone-18px">
+                  Rotten<br />Tomatoes
+                </div></a
+              >
+              <div class="group-140-xVMSv5">
+                <div class="careers-i70495273142538-CexhX7 firasans-normal-soapstone-14px">Careers</div>
+                <div class="about-rotten-to-i70495273142539-CexhX7 firasans-normal-soapstone-14px">
+                  About Rotten Tomatotes
+                </div>
+                <div class="licensing-i70495273142540-CexhX7 firasans-normal-soapstone-14px">Licensing</div>
+                <div class="whats-the-tomat-i70495273142541-CexhX7 firasans-normal-soapstone-14px">
+                  What’s the Tomatometer?
+                </div>
+                <div class="submit-a-review-i70495273142542-CexhX7 firasans-normal-soapstone-14px">Submit a Review</div>
+                <div class="our-critics-i70495273142543-CexhX7 firasans-normal-soapstone-14px">Our Critics</div>
+                <div class="advertise-i70495273142544-CexhX7 firasans-normal-soapstone-14px">Advertise</div>
+              </div>
+            </div>
+            <div class="frame-35-GidFez">
+              <div class="group-181-pptnM2">
+                <div class="sign-up-for-our-i70495273542598-UbU4Lz firasans-semi-bold-soapstone-18px">
+                  SIGN UP FOR OUR NEWSLETTER
+                </div>
+                <div class="rectangle-30-UbU4Lz"></div>
+                <div class="enter-email-i70495273542600-UbU4Lz firasans-normal-stack-16px">enter email</div>
+              </div>
+              <div class="rectangle-31-pptnM2"></div>
+              <div class="sign-up-i70495273542602-pptnM2 firasans-medium-soapstone-16px">SIGN UP</div>
+              <div class="unsubscribe-at-i70495273542603-pptnM2 firasans-normal-soapstone-16px">
+                Unsubscribe at any time...<br />we won’t take it personally.
+              </div>
+              <div class="get-all-of-the-i70495273542604-pptnM2 firasans-normal-soapstone-16px">
+                Get all of the latest reviews and entertainment news delivered straight to your inbox!
+              </div>
+            </div>
+          </div>
+          <div class="social-1vVbzm">
+            <img class="facebook-new-1-l4XUbi" src="img/facebook-new-1-1@2x.svg" />
+            <img class="youtube-1-l4XUbi" src="img/youtube-1-1@2x.svg" />
+            <img class="twitter-1-l4XUbi" src="img/twitter-1-1@2x.svg" />
+            <img class="instagram-new-1-l4XUbi" src="img/instagram-new-1-1@2x.svg" />
+          </div>
+        </div>
+        <div class="rectangle-67-C61RwL"></div>
+        <div class="i-phone-x-11-pro-dark-base-C61RwL">
+          <div class="i-phone-x-11-pro-light-base-OEJqEv">
+            <div class="notch-x6Uh93">
+              <img class="exclude-gHrsXL" src="img/exclude-1@2x.png" />
+              <img class="notch-gHrsXL" src="img/notch-1@2x.svg" />
+            </div>
+            <div class="right-side-x6Uh93">
+              <div class="battery-1Kw3Q0">
+                <img class="rectangle-6dszjN" src="img/rectangle-2@2x.svg" />
+                <img class="combined-shape-6dszjN" src="img/combined-shape-1@2x.svg" />
+                <img class="rectangle-SMxSSZ" src="img/rectangle-3@2x.svg" />
+              </div>
+              <img class="wifi-1Kw3Q0" src="img/wifi-1@2x.svg" />
+              <img class="mobile-signal-1Kw3Q0" src="img/mobile-signal@2x.svg" />
+            </div>
+            <div class="left-side-x6Uh93">
+              <div class="time-dark-base-8yRYxe">
+                <div class="time-light-base-l2lQkM"><img class="x941-TsEUUy" src="img/9-41-1@2x.svg" /></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="topnav-C61RwL">
+          <div class="group-223-cRuLgm">
+            <a href="javascript:ShowOverlay('menu1', 'animate-appear');"
+              ><img class="icons8-menu-240-3-1-eBci9D" src="img/icons8-menu-240-3-1@2x.svg"
+            /></a>
+            <a href="javascript:ShowOverlay('othersearch2', 'animate-appear');"
+              ><img class="icons8-search-240-1-eBci9D" src="img/icons8-search-240-1@2x.svg"
+            /></a>
+            <a href="homehome.html"><img class="rt-logo-1-eBci9D" src="img/exclude-1@2x.png" /></a>
+          </div>
+        </div>
+        <a href="homehome.html"><img class="rt-logored-1-C61RwL" src="img/rt-logored-1@2x.svg" /></a>
+      </div>
+    </div>
+    <div id="overlay-othersearch2" class="overlay" style="min-height: 1777px">
+      <div class="container-center-horizontal">
+        <div class="othersearch2 screen">
+          <div class="search-bar-C61RwL">
+            <div class="group-174-raZGPH">
+              <div class="rectangle-37-nnCTJu"></div>
+              <div class="search-by-title-ctor-or-keyword-nnCTJu">search by title, actor, or keyword</div>
+              <img class="icons8-search-240-1-nnCTJu" src="img/icons8-search-240-1-6@2x.svg" />
+            </div>
+            <img class="cursor-typing-gif-raZGPH" src="img/cursor-typing--gif-@2x.svg" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-othersearch2";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var clickedDiv = e.toElement || e.target;
+          if (overlayElement.contains(clickedDiv)) {
+            HideOverlay("othersearch2", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <div id="overlay-menu1" class="overlay" style="min-height: 1777px">
+      <div class="container-center-horizontal">
+        <div class="menu1 screen">
+          <div class="hamburger1-C61RwL">
+            <div class="rectangle-61-n8Kbfk"></div>
+            <div class="tv-n8Kbfk">
+              <div class="now-streaming-b5pdoR">NOW STREAMING</div>
+              <div class="group-149-b5pdoR">
+                <div class="guides-nB7RYb">GUIDES</div>
+                <img class="vector-4-nB7RYb" src="img/vector-4@2x.svg" />
+              </div>
+              <div class="most-popular-b5pdoR">MOST POPULAR</div>
+              <div class="certified-fresh-b5pdoR">CERTIFIED FRESH</div>
+              <a href="tv.html"><div class="tv-b5pdoR">TV</div></a>
+            </div>
+            <a href="tomatometer.html"><div class="what-is-the-tomatometer-n8Kbfk">WHAT IS THE TOMATOMETER?</div></a>
+            <div class="movies-n8Kbfk">
+              <a href="movies.html"><div class="movies-aJGCkz">MOVIES</div></a>
+              <div class="now-streaming-aJGCkz">NOW STREAMING</div>
+              <div class="certified-fresh-aJGCkz">CERTIFIED FRESH</div>
+              <div class="group-147-aJGCkz">
+                <div class="coming-soon-xOv37L">COMING SOON</div>
+                <img class="vector-3-xOv37L" src="img/vector-4@2x.svg" />
+              </div>
+              <div class="group-148-aJGCkz">
+                <div class="movies-in-theaters-ilxxqp">MOVIES IN THEATERS</div>
+                <img class="vector-4-ilxxqp" src="img/vector-4@2x.svg" />
+              </div>
+            </div>
+          </div>
+          <div class="log-in-C61RwL">LOG IN</div>
+          <div class="sign-up-C61RwL">SIGN UP</div>
+          <div class="rectangle-66-C61RwL"></div>
+          <a href="javascript:HideOverlay('menu1', 'animate-disappear');">
+            <div class="icon-light-close-button-C61RwL">
+              <div class="icon-light-close-button-Oypnoe">
+                <img class="background-F4oxyu" src="img/exclude-1@2x.png" />
+                <img class="x-F4oxyu" src="img/x@2x.svg" />
+              </div></div
+          ></a>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-menu1";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var clickedDiv = e.toElement || e.target;
+          if (overlayElement.contains(clickedDiv)) {
+            HideOverlay("menu1", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <script>
+      ShowOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") == -1) {
+          document.getElementById(overlayName).className =
+            document.getElementById(overlayName).className + " " + animationName;
+        }
+        if (window.loadAsyncSrc != undefined) {
+          loadAsyncSrc();
+        }
+      };
+      HideOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") != -1) {
+          cssClasses.splice(-1);
+          cssClasses.push(animationName);
+          document.getElementById(overlayName).className = cssClasses.join(" ");
+
+          cssClasses.splice(-1);
+          setTimeout(function () {
+            document.getElementById(overlayName).className = cssClasses.join(" ");
+          }, 1100);
+        }
+        var vids = document.getElementsByTagName("video");
+        if (vids) {
+          for (var i = 0; i < vids.length; i++) {
+            var video = vids.item(i);
+            video.pause();
+          }
+        }
+      };
+    </script>
+  </body>
+</html>

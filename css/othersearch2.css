@@ -1,0 +1,151 @@
+/* screen - othersearch2 */
+
+.border-1-2px-soapstone {
+  border: 1.2px solid var(--soapstone);
+}
+.firasans-bold-soapstone-18px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.firasans-bold-soapstone-20px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.firasans-light-soapstone-16px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+}
+.firasans-medium-soapstone-16px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+.firasans-medium-soapstone-20px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.firasans-normal-soapstone-14px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-normal-soapstone-16px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-normal-soapstone-18px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-normal-stack-16px {
+  color: var(--stack);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+}
+.firasans-semi-bold-soapstone-18px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.othersearch2 {
+  background-color: var(--black);
+  height: 105px;
+  overflow-x: hidden;
+  position: relative;
+  width: 414px;
+}
+.othersearch2 .cursor-typing-gif-raZGPH {
+  background-color: transparent;
+  height: 24px;
+  left: -2px;
+  position: absolute;
+  top: 10px;
+  width: 24px;
+}
+.othersearch2 .group-174-raZGPH {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 368px;
+}
+.othersearch2 .icons8-search-240-1-nnCTJu {
+  background-color: transparent;
+  height: 32px;
+  left: 315px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 35px;
+}
+.othersearch2 .rectangle-37-nnCTJu {
+  background-color: var(--white);
+  border-radius: 13.406593322753906px;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 366px;
+}
+.othersearch2 .search-bar-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 24px;
+  position: relative;
+  top: 32px;
+  width: 366px;
+}
+.othersearch2 .search-by-title-ctor-or-keyword-nnCTJu {
+  background-color: transparent;
+  color: var(--stack);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 400;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  width: 206px;
+}
+:root {
+  --barossa: rgba(71,5,44,1.0);
+  --black: rgba(6,2,5,1.0);
+  --black-2: rgba(0,0,0,1.0);
+  --licorice: rgba(21,21,21,1.0);
+  --licorice-2: rgba(21,21,21,0.1);
+  --soapstone: rgba(255,249,252,1.0);
+  --soapstone-2: rgba(255,249,252,0.4);
+  --stack: rgba(135,139,136,1.0);
+  --white: rgba(255,255,255,1.0);
+}

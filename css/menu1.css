@@ -1,0 +1,422 @@
+/* screen - menu1 */
+
+.border-1-2px-soapstone {
+  border: 1.2px solid var(--soapstone);
+}
+.firasans-bold-soapstone-18px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.firasans-bold-soapstone-20px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.firasans-light-soapstone-16px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+}
+.firasans-medium-soapstone-16px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+.firasans-medium-soapstone-20px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.firasans-normal-soapstone-14px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-normal-soapstone-16px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-normal-soapstone-18px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-normal-stack-16px {
+  color: var(--stack);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+}
+.firasans-semi-bold-soapstone-18px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.menu1 {
+  background-color: transparent;
+  height: 784px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 294px;
+}
+.menu1 .background-F4oxyu {
+  background-color: var(--black-2);
+  height: 1px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+.menu1 .certified-fresh-aJGCkz {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 204px;
+  width: 142px;
+}
+.menu1 .certified-fresh-b5pdoR {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 203px;
+  width: 142px;
+}
+.menu1 .coming-soon-xOv37L {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 125px;
+}
+.menu1 .group-147-aJGCkz {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 104px;
+  width: 145px;
+}
+.menu1 .group-148-aJGCkz {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 191px;
+}
+.menu1 .group-149-b5pdoR {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 88px;
+}
+.menu1 .guides-nB7RYb {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 68px;
+}
+.menu1 .hamburger1-C61RwL {
+  background-color: transparent;
+  height: 784px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.menu1 .icon-light-close-button-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 256px;
+  position: absolute;
+  top: 12px;
+  width: 30px;
+}
+.menu1 .icon-light-close-button-Oypnoe {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 30px;
+}
+.menu1 .log-in-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 655px;
+  width: 88px;
+}
+.menu1 .most-popular-b5pdoR {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 154px;
+  width: 142px;
+}
+.menu1 .movies-aJGCkz {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 88px;
+}
+.menu1 .movies-in-theaters-ilxxqp {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 171px;
+}
+.menu1 .movies-n8Kbfk {
+  background-color: transparent;
+  height: 222px;
+  left: 34px;
+  position: absolute;
+  top: 62px;
+  width: 195px;
+}
+.menu1 .now-streaming-aJGCkz {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 142px;
+}
+.menu1 .now-streaming-b5pdoR {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: 142px;
+}
+.menu1 .rectangle-61-n8Kbfk {
+  background-color: var(--black-2);
+  height: 784px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+.menu1 .rectangle-66-C61RwL {
+  background-color: var(--black-2);
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+.menu1 .sign-up-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 710px;
+  width: 99px;
+}
+.menu1 .tv-b5pdoR {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 30px;
+}
+.menu1 .tv-n8Kbfk {
+  background-color: transparent;
+  height: 222px;
+  left: 34px;
+  position: absolute;
+  top: 316px;
+  width: 148px;
+}
+.menu1 .vector-3-xOv37L {
+  background-color: transparent;
+  height: 9px;
+  left: 130px;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+.menu1 .vector-4-ilxxqp {
+  background-color: transparent;
+  height: 9px;
+  left: 176px;
+  position: absolute;
+  top: 7px;
+  width: 14px;
+}
+.menu1 .vector-4-nB7RYb {
+  background-color: transparent;
+  height: 9px;
+  left: 73px;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+.menu1 .what-is-the-tomatometer-n8Kbfk {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 570px;
+  width: 186px;
+}
+.menu1 .x-F4oxyu {
+  background-color: transparent;
+  height: 13px;
+  left: 8px;
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+:root {
+  --barossa: rgba(71,5,44,1.0);
+  --black: rgba(6,2,5,1.0);
+  --black-2: rgba(0,0,0,1.0);
+  --licorice: rgba(21,21,21,1.0);
+  --licorice-2: rgba(21,21,21,0.1);
+  --soapstone: rgba(255,249,252,1.0);
+  --soapstone-2: rgba(255,249,252,0.4);
+  --stack: rgba(135,139,136,1.0);
+  --white: rgba(255,255,255,1.0);
+}
