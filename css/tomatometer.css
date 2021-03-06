@@ -1,56 +1,18 @@
 /* screen - tomatometer */
 
-.border-1-2px-soapstone {
-  border: 1.2px solid var(--soapstone);
-}
-.firasans-bold-soapstone-18px {
+.firasans-bold-soapstone-28px {
   color: var(--soapstone);
   font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
+  font-size: 28px;
   font-style: normal;
   font-weight: 700;
 }
-.firasans-bold-soapstone-20px {
+.firasans-medium-soapstone-24px {
   color: var(--soapstone);
   font-family: 'Fira Sans', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 700;
-}
-.firasans-light-soapstone-16px {
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 300;
-}
-.firasans-medium-soapstone-16px {
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 16px;
+  font-size: 24px;
   font-style: normal;
   font-weight: 500;
-}
-.firasans-medium-soapstone-20px {
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-}
-.firasans-normal-soapstone-14px {
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-}
-.firasans-normal-soapstone-16px {
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
 }
 .firasans-normal-soapstone-18px {
   color: var(--soapstone);
@@ -59,17 +21,17 @@
   font-style: normal;
   font-weight: 400;
 }
-.firasans-normal-stack-16px {
-  color: var(--stack);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 16px;
-  font-style: italic;
-  font-weight: 400;
-}
-.firasans-semi-bold-soapstone-18px {
+.firasans-normal-soapstone-20px {
   color: var(--soapstone);
   font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.firasans-semi-bold-soapstone-32px {
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 32px;
   font-style: normal;
   font-weight: 600;
 }
@@ -77,24 +39,24 @@
   background-color: transparent;
   background-image: url(../img/tomatometer@1x.png);
   background-size: 100% 100%;
-  height: 1777px;
+  height: 1828px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 414px;
+  width: 1440px;
 }
-.tomatometer .a-movie-needs-a-not-be-out-yet-FXX1ZD {
+.tomatometer .a-movie-needs-a-not-be-out-yet-C61RwL {
   background-color: transparent;
   height: auto;
-  left: 0px;
+  left: 82px;
   letter-spacing: 0.00px;
   line-height: normal;
   position: absolute;
   text-align: left;
-  top: 121px;
-  width: 343px;
+  top: 449px;
+  width: 749px;
 }
-.tomatometer .about-rotten-to-i70495273142539-CexhX7 {
+.tomatometer .about-rotten-to-i74398274171578-fie9Eg {
   background-color: transparent;
   height: auto;
   left: 0px;
@@ -103,20 +65,9 @@
   position: absolute;
   text-align: left;
   top: 0px;
-  width: 163px;
+  width: 225px;
 }
-.tomatometer .ad-choices-i70495273142530-xzKrYV {
-  background-color: transparent;
-  height: auto;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 84px;
-  width: 81px;
-}
-.tomatometer .advertise-i70495273142544-CexhX7 {
+.tomatometer .ad-choices-i74398274171576-FR3M0S {
   background-color: transparent;
   height: auto;
   left: 0px;
@@ -124,530 +75,95 @@
   line-height: normal;
   position: absolute;
   text-align: left;
-  top: 111px;
+  top: 133px;
+  width: 105px;
+}
+.tomatometer .advertise-i74398274171583-fie9Eg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 187px;
   width: 87px;
 }
-.tomatometer .battery-1Kw3Q0 {
+.tomatometer .browse-movies-royatl {
   background-color: transparent;
-  height: 10px;
-  left: 38px;
-  position: absolute;
-  top: 8px;
-  width: 22px;
-}
-.tomatometer .browse-movies-C61RwL {
-  background-color: transparent;
-  color: var(--black-2);
+  color: rgba(0,0,0,1.0);
   font-family: 'Fira Sans', Helvetica;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 50px;
+  left: 39px;
   letter-spacing: 0.00px;
   line-height: normal;
   position: absolute;
   text-align: left;
-  top: 1192px;
-  width: 124px;
-}
-.tomatometer .browse-tv-C61RwL {
-  background-color: transparent;
-  color: var(--black-2);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 500;
-  height: auto;
-  left: 255px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 1192px;
-  width: 85px;
-}
-.tomatometer .careers-i70495273142538-CexhX7 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 166px;
-  width: 71px;
-}
-.tomatometer .certified-fresh-PXn7xL {
-  background-color: transparent;
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 600;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 117px;
-  width: 113px;
-}
-.tomatometer .combined-shape-6dszjN {
-  background-color: transparent;
-  height: 5px;
-  left: 20px;
-  position: absolute;
-  top: 3px;
-  width: 2px;
-}
-.tomatometer .do-not-sell-my-i70495273142529-xzKrYV {
-  background-color: transparent;
-  height: auto;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 55px;
-  width: 130px;
-}
-.tomatometer .enter-email-i70495273542600-UbU4Lz {
-  background-color: transparent;
-  height: auto;
-  left: 12px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 35px;
-  width: 87px;
-}
-.tomatometer .exclude-gHrsXL {
-  background-color: transparent;
-  height: 1px;
-  left: 167px;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-.tomatometer .facebook-new-1-l4XUbi {
-  background-color: transparent;
-  height: 28px;
-  left: 107px;
-  object-fit: cover;
-  position: absolute;
-  top: 5px;
-  width: 35px;
-}
-.tomatometer .feedback-i70495273142526-xzKrYV {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 111px;
-  width: 86px;
-}
-.tomatometer .footer-1vVbzm {
-  background-color: transparent;
-  height: 500px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 414px;
-}
-.tomatometer .frame-34-GidFez {
-  background-color: transparent;
-  height: 304px;
-  left: 0px;
-  overflow: hidden;
-  position: absolute;
-  top: 196px;
-  width: 414px;
-}
-.tomatometer .frame-35-GidFez {
-  background-color: var(--soapstone-2);
-  height: 195px;
-  left: 1px;
-  overflow: hidden;
-  position: absolute;
-  top: -0px;
-  width: 414px;
-}
-.tomatometer .fresh-PXn7xL {
-  background-color: transparent;
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 600;
-  height: auto;
-  left: 139px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 117px;
-  width: 73px;
-}
-.tomatometer .get-all-of-the-i70495273542604-pptnM2 {
-  background-color: transparent;
-  height: auto;
-  left: 32px;
-  letter-spacing: -0.16px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 94px;
-  width: 360px;
-}
-.tomatometer .group-140-xVMSv5 {
-  background-color: transparent;
-  height: 179px;
-  left: 203px;
-  position: absolute;
-  top: 80px;
-  width: 176px;
-}
-.tomatometer .group-141-xVMSv5 {
-  background-color: transparent;
-  height: 179px;
-  left: 40px;
-  position: absolute;
-  top: 80px;
-  width: 143px;
-}
-.tomatometer .group-169-C61RwL {
-  background-color: transparent;
-  height: 650px;
-  left: 32px;
-  position: absolute;
-  top: 432px;
-  width: 351px;
-}
-.tomatometer .group-170-C61RwL {
-  background-color: transparent;
-  height: 174px;
-  left: 32px;
-  position: absolute;
-  top: 236px;
-  width: 347px;
-}
-.tomatometer .group-181-pptnM2 {
-  background-color: transparent;
-  height: 58px;
-  left: 32px;
-  position: absolute;
-  top: 18px;
-  width: 268px;
-}
-.tomatometer .group-223-cRuLgm {
-  background-color: transparent;
-  height: 45px;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 354px;
-}
-.tomatometer .help-i70495273142524-xzKrYV {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 138px;
-  width: 44px;
-}
-.tomatometer .i-phone-x-11-pro-dark-base-C61RwL {
-  background-color: transparent;
-  height: 39px;
-  left: 40px;
-  position: absolute;
-  top: 0px;
-  width: 334px;
-}
-.tomatometer .i-phone-x-11-pro-light-base-OEJqEv {
-  background-color: transparent;
-  height: 39px;
-  left: 0px;
-  overflow: hidden;
-  position: relative;
-  top: 0px;
-  width: 334px;
-}
-.tomatometer .icons8-menu-240-3-1-eBci9D {
-  background-color: transparent;
-  height: 44px;
-  left: 307px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 47px;
-}
-.tomatometer .icons8-search-240-1-eBci9D {
-  background-color: transparent;
-  height: 33px;
-  left: 254px;
-  object-fit: cover;
-  position: absolute;
-  top: 8px;
-  width: 36px;
-}
-.tomatometer .in-addition-to-ust-not-out-yet-FXX1ZD {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  top: 452px;
-  width: 343px;
-}
-.tomatometer .instagram-new-1-l4XUbi {
-  background-color: transparent;
-  height: 36px;
-  left: 53px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 35px;
-}
-.tomatometer .left-side-x6Uh93 {
-  background-color: transparent;
-  height: 19px;
-  left: 19px;
-  position: absolute;
-  top: 11px;
-  width: 48px;
-}
-.tomatometer .licensing-i70495273142540-CexhX7 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 138px;
-  width: 87px;
-}
-.tomatometer .mobielfooter-C61RwL {
-  background-color: transparent;
-  height: 500px;
-  left: 0px;
-  position: absolute;
-  top: 1277px;
-  width: 414px;
-}
-.tomatometer .mobile-signal-1Kw3Q0 {
-  background-color: transparent;
-  height: 11px;
-  left: -0px;
-  position: absolute;
-  top: 8px;
-  width: 16px;
-}
-.tomatometer .news-i70495273142525-xzKrYV {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 166px;
-  width: 54px;
-}
-.tomatometer .notch-gHrsXL {
-  background-color: transparent;
-  height: 27px;
-  left: 69px;
-  position: absolute;
-  top: -0px;
-  width: 196px;
-}
-.tomatometer .notch-x6Uh93 {
-  background-color: transparent;
-  height: 41px;
-  left: 0px;
-  position: absolute;
-  top: -2px;
-  width: 334px;
-}
-.tomatometer .now-that-youre-start-watching-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 32px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 1098px;
-  width: 334px;
-}
-.tomatometer .now-what-if-you-mean-i-will-too-FXX1ZD {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 370px;
-  width: 343px;
-}
-.tomatometer .our-critics-i70495273142543-CexhX7 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 84px;
-  width: 101px;
-}
-.tomatometer .privacy-policy-i70495273142527-xzKrYV {
-  background-color: transparent;
-  height: auto;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
+  top: 12px;
   width: 123px;
 }
-.tomatometer .rectangle-3-C61RwL {
-  background-color: var(--soapstone);
-  border-radius: 25px;
-  height: 40px;
-  left: 33px;
+.tomatometer .browse-tv-ZnSQrh {
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: absolute;
-  top: 1180px;
-  width: 155px;
-}
-.tomatometer .rectangle-30-UbU4Lz {
-  background-color: var(--soapstone);
-  border-radius: 20px;
-  height: 26px;
-  left: 0px;
-  position: absolute;
-  top: 32px;
-  width: 264px;
-}
-.tomatometer .rectangle-31-pptnM2 {
-  background-color: var(--barossa);
-  border-radius: 20px;
-  height: 26px;
-  left: 302px;
-  position: absolute;
-  top: 50px;
+  text-align: left;
+  top: 12px;
   width: 88px;
 }
-.tomatometer .rectangle-4-C61RwL {
-  background-color: var(--soapstone);
-  border-radius: 25px;
-  height: 40px;
-  left: 219px;
-  position: absolute;
-  top: 1180px;
-  width: 155px;
-}
-.tomatometer .rectangle-67-C61RwL {
-  background-color: var(--black);
-  height: 105px;
+.tomatometer .careers-i74398274171567-oCc29T {
+  background-color: transparent;
+  height: auto;
   left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: absolute;
-  top: 0px;
-  width: 414px;
+  text-align: left;
+  top: 43px;
+  width: 74px;
 }
-.tomatometer .rectangle-6dszjN {
+.tomatometer .certified-fresh-C61RwL {
   background-color: transparent;
-  height: 11px;
-  left: -0px;
+  height: auto;
+  left: 1112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: absolute;
-  top: -0px;
-  width: 20px;
+  text-align: left;
+  top: 288px;
+  width: 256px;
 }
-.tomatometer .rectangle-SMxSSZ {
+.tomatometer .do-not-sell-my-i74398274171575-FR3M0S {
   background-color: transparent;
-  height: 7px;
-  left: 1px;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: absolute;
-  top: 2px;
-  width: 17px;
+  text-align: left;
+  top: 86px;
+  width: 183px;
 }
-.tomatometer .right-side-x6Uh93 {
+.tomatometer .facebook-new-1-Z5w9Cx {
   background-color: transparent;
-  height: 18px;
-  left: 262px;
+  height: 40px;
+  left: 156px;
+  object-fit: cover;
   position: absolute;
   top: 7px;
-  width: 59px;
+  width: 50px;
 }
-.tomatometer .rotten-PXn7xL {
-  background-color: transparent;
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 600;
-  height: auto;
-  left: 244px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 117px;
-  width: 89px;
-}
-.tomatometer .rotten-tomatoes-i70495273142531-xVMSv5 {
-  background-color: transparent;
-  height: auto;
-  left: 40px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 18px;
-  width: 82px;
-}
-.tomatometer .rt-logo-1-eBci9D {
-  background-color: transparent;
-  height: 1px;
-  left: 45px;
-  object-fit: cover;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-.tomatometer .rt-logored-1-C61RwL {
-  background-color: transparent;
-  height: 46px;
-  left: 31px;
-  object-fit: cover;
-  position: absolute;
-  top: 48px;
-  width: 91px;
-}
-.tomatometer .see-a-score-of-sider-it-rotten-FXX1ZD {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  top: 0px;
-  width: 343px;
-}
-.tomatometer .sign-up-for-our-i70495273542598-UbU4Lz {
+.tomatometer .feedback-i74398274171569-oCc29T {
   background-color: transparent;
   height: auto;
   left: 0px;
@@ -656,245 +172,602 @@
   position: absolute;
   text-align: left;
   top: 0px;
-  width: 266px;
+  width: 90px;
 }
-.tomatometer .sign-up-i70495273542602-pptnM2 {
+.tomatometer .follow-us-i74398274171571-xG8o79 {
   background-color: transparent;
   height: auto;
-  left: 317px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
   position: absolute;
   text-align: left;
-  top: 54px;
-  width: 61px;
+  top: 0px;
+  width: 93px;
 }
-.tomatometer .social-1vVbzm {
+.tomatometer .foot-iPe1yZ {
+  background-color: rgba(255,249,252,0.4);
+  height: 347px;
+  left: -1px;
+  position: absolute;
+  top: 1px;
+  width: 1440px;
+}
+.tomatometer .footer-C61RwL {
+  background-color: transparent;
+  height: 701px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 1127px;
+  width: 1440px;
+}
+.tomatometer .frame-30-cRuLgm {
+  background-color: transparent;
+  height: 66px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1285px;
+}
+.tomatometer .fresh-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1110px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 497px;
+  width: 105px;
+}
+.tomatometer .get-all-of-the-i74398274171561-vIO9jK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+.tomatometer .group-102-iPe1yZ {
+  background-color: transparent;
+  height: 262px;
+  left: 340px;
+  position: absolute;
+  top: 388px;
+  width: 249px;
+}
+.tomatometer .group-104-iPe1yZ {
+  background-color: transparent;
+  height: 152px;
+  left: 821px;
+  position: absolute;
+  top: 385px;
+  width: 189px;
+}
+.tomatometer .group-105-iPe1yZ {
+  background-color: transparent;
+  height: 153px;
+  left: 652px;
+  position: absolute;
+  top: 389px;
+  width: 96px;
+}
+.tomatometer .group-141-yjzgNB {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 142px;
+  width: 774px;
+}
+.tomatometer .group-142-96tGoM {
+  background-color: transparent;
+  height: 48px;
+  left: 562px;
+  position: absolute;
+  top: 0px;
+  width: 199px;
+}
+.tomatometer .group-142-yjzgNB {
+  background-color: transparent;
+  height: 48px;
+  left: 11px;
+  position: absolute;
+  top: 62px;
+  width: 761px;
+}
+.tomatometer .group-142-zxDZGC {
+  background-color: transparent;
+  height: 48px;
+  left: 562px;
+  position: absolute;
+  top: 0px;
+  width: 199px;
+}
+.tomatometer .group-170-ZxLWy4 {
+  background-color: transparent;
+  height: 66px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1291px;
+}
+.tomatometer .group-30-yjzgNB {
+  background-color: transparent;
+  height: 48px;
+  left: 11px;
+  position: absolute;
+  top: 62px;
+  width: 761px;
+}
+.tomatometer .group-31-Nuwx1X {
+  background-color: transparent;
+  height: 202px;
+  left: 333px;
+  position: relative;
+  top: 67px;
+  width: 772px;
+}
+.tomatometer .group-8-iPe1yZ {
+  background-color: transparent;
+  height: 56px;
+  left: 1078px;
+  position: absolute;
+  top: 424px;
+  width: 284px;
+}
+.tomatometer .group-91-iPe1yZ {
+  background-color: transparent;
+  height: 25px;
+  left: 1078px;
+  position: absolute;
+  top: 383px;
+  width: 93px;
+}
+.tomatometer .group-92-MteJUS {
   background-color: transparent;
   height: 39px;
-  left: 195px;
+  left: 68px;
   position: absolute;
-  top: 216px;
-  width: 195px;
-}
-.tomatometer .span0-CmnYuc {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.tomatometer .span0-IuOWwz {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-}
-.tomatometer .span0-fGE3xP {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-}
-.tomatometer .span1-CmnYuc {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-}
-.tomatometer .span1-IuOWwz {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.tomatometer .span1-fGE3xP {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.tomatometer .span2-IuOWwz {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-}
-.tomatometer .span3-IuOWwz {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.tomatometer .span4-IuOWwz {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-}
-.tomatometer .span5-IuOWwz {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.tomatometer .span6-IuOWwz {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-}
-.tomatometer .span7-IuOWwz {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.tomatometer .span8-IuOWwz {
-  color: rgba(255,249,252,1.0);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-}
-.tomatometer .submit-a-review-i70495273142542-CexhX7 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 55px;
-  width: 113px;
-}
-.tomatometer .terms-and-polic-i70495273142528-xzKrYV {
-  background-color: transparent;
-  height: auto;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 28px;
-  width: 123px;
-}
-.tomatometer .the-tomatometer-C61RwL {
-  background-color: transparent;
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 700;
-  height: auto;
-  left: 32px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 118px;
-  width: 223px;
-}
-.tomatometer .the-tomatometer-trusted-critics-C61RwL {
-  background-color: transparent;
-  color: var(--soapstone);
-  font-family: 'Fira Sans', Helvetica;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 500;
-  height: auto;
-  left: 32px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 166px;
-  width: 335px;
-}
-.tomatometer .time-dark-base-8yRYxe {
-  background-color: transparent;
-  height: 19px;
-  left: 0px;
-  position: relative;
   top: 0px;
-  width: 48px;
+  width: 102px;
 }
-.tomatometer .time-light-base-l2lQkM {
+.tomatometer .group-97-MteJUS {
   background-color: transparent;
-  border-radius: 28.501333236694336px;
-  height: 19px;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 48px;
-}
-.tomatometer .topnav-C61RwL {
-  background-color: transparent;
-  height: 45px;
-  left: 32px;
+  height: 39px;
+  left: 196px;
   position: absolute;
-  top: 49px;
-  width: 354px;
+  top: 0px;
+  width: 102px;
 }
-.tomatometer .twitter-1-l4XUbi {
+.tomatometer .group-98-3xHm95 {
+  background-color: transparent;
+  height: 39px;
+  left: 989px;
+  position: absolute;
+  top: 12px;
+  width: 296px;
+}
+.tomatometer .group-98-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 911px;
+  position: absolute;
+  top: 938px;
+  width: 202px;
+}
+.tomatometer .group-99-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 1168px;
+  position: absolute;
+  top: 938px;
+  width: 202px;
+}
+.tomatometer .help-i74398274171566-oCc29T {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 46px;
+}
+.tomatometer .icons8-search-240-1-MteJUS {
   background-color: transparent;
   height: 40px;
   left: -0px;
   object-fit: cover;
   position: absolute;
   top: -1px;
-  width: 35px;
+  width: 41px;
 }
-.tomatometer .unsubscribe-at-i70495273542603-pptnM2 {
+.tomatometer .in-addition-to-ust-not-out-yet-C61RwL {
   background-color: transparent;
   height: auto;
-  left: 32px;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  top: 706px;
+  width: 758px;
+}
+.tomatometer .instagram-new-1-iPe1yZ {
+  background-color: transparent;
+  height: 50px;
+  left: 1161px;
+  object-fit: cover;
+  position: absolute;
+  top: 427px;
+  width: 51px;
+}
+.tomatometer .licensing-i74398274171579-fie9Eg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
   position: absolute;
   text-align: left;
-  top: 139px;
-  width: 202px;
+  top: 234px;
+  width: 87px;
 }
-.tomatometer .untitled-artwork-5-5-PXn7xL {
+.tomatometer .log-in-i74398285205250-Rg99xF {
   background-color: transparent;
-  height: 100px;
-  left: 120px;
-  object-fit: cover;
+  color: rgba(21,21,21,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: absolute;
-  top: 6px;
+  text-align: left;
+  top: 12px;
+  width: 52px;
+}
+.tomatometer .movies-i74398285205244-3xHm95 {
+  background-color: transparent;
+  height: auto;
+  left: 230px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: 99px;
+}
+.tomatometer .news-i74398274171568-oCc29T {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 88px;
+  width: 56px;
+}
+.tomatometer .now-that-youre-start-watching-C61RwL {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 946px;
+  width: 726px;
+}
+.tomatometer .now-what-if-you-mean-i-will-too-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 626px;
+  width: 758px;
+}
+.tomatometer .our-critics-i74398274171582-fie9Eg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  width: 101px;
+}
+.tomatometer .privacy-policy-i74398274171573-FR3M0S {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 133px;
+}
+.tomatometer .rectangle-3-Rg99xF {
+  background-color: var(--soapstone);
+  border-radius: 24px;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
   width: 100px;
 }
-.tomatometer .untitled-artwork-7-3-PXn7xL {
-  background-color: transparent;
-  height: 110px;
+.tomatometer .rectangle-3-ZnSQrh {
+  background-color: var(--soapstone);
+  border-radius: 23px;
+  height: 40px;
   left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 200px;
+}
+.tomatometer .rectangle-3-royatl {
+  background-color: var(--soapstone);
+  border-radius: 23px;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 200px;
+}
+.tomatometer .rectangle-30-96tGoM {
+  background-color: var(--soapstone);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 537px;
+}
+.tomatometer .rectangle-30-zxDZGC {
+  background-color: var(--soapstone);
+  border-radius: 28px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 537px;
+}
+.tomatometer .rectangle-31-3MywgV {
+  background-color: rgba(63,8,43,1.0);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 197px;
+}
+.tomatometer .rectangle-31-zH1Hpp {
+  background-color: rgba(26,2,42,1.0);
+  border-radius: 29px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 197px;
+}
+.tomatometer .rectangle-4-9nTUmx {
+  background-color: var(--soapstone);
+  border-radius: 24px;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.tomatometer .rotten-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 725px;
+  width: 119px;
+}
+.tomatometer .rotten-tomatoes-i74398274171584-iPe1yZ {
+  background-color: transparent;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 383px;
+  width: 190px;
+}
+.tomatometer .rt-logo-1-3xHm95 {
+  background-color: transparent;
+  height: 1px;
+  left: 66px;
   object-fit: cover;
   position: absolute;
-  top: 6px;
-  width: 110px;
+  top: 33px;
+  width: 1px;
 }
-.tomatometer .untitled-artwork-9-4-PXn7xL {
+.tomatometer .rt-logored-1-ZxLWy4 {
   background-color: transparent;
-  height: 112px;
-  left: 229px;
+  height: 66px;
+  left: -1px;
   object-fit: cover;
   position: absolute;
   top: -0px;
-  width: 112px;
+  width: 133px;
 }
-.tomatometer .whats-the-tomat-i70495273142541-CexhX7 {
+.tomatometer .see-a-score-of-sider-it-rotten-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  top: 350px;
+  width: 758px;
+}
+.tomatometer .sign-up-for-our-i74398274171547-yjzgNB {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 229px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+.tomatometer .sign-up-i74398274171553-zH1Hpp {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.tomatometer .sign-up-i74398274171559-3MywgV {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.tomatometer .sign-up-i74398285205253-9nTUmx {
+  background-color: transparent;
+  color: rgba(21,21,21,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: 62px;
+}
+.tomatometer .span0-JxMHrr {
+  color: rgba(255,249,252,1.0);
+  font-style: normal;
+}
+.tomatometer .span0-fd3rP0 {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.tomatometer .span0-o9mHbc {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.tomatometer .span1-JxMHrr {
+  color: rgba(255,249,252,1.0);
+  font-style: normal;
+  font-weight: 400;
+}
+.tomatometer .span1-fd3rP0 {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.tomatometer .span1-o9mHbc {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.tomatometer .span2-fd3rP0 {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.tomatometer .span3-fd3rP0 {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.tomatometer .span4-fd3rP0 {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.tomatometer .span5-fd3rP0 {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.tomatometer .span6-fd3rP0 {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.tomatometer .span7-fd3rP0 {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.tomatometer .span8-fd3rP0 {
+  color: rgba(255,249,252,1.0);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.tomatometer .submit-a-review-i74398274171581-fie9Eg {
   background-color: transparent;
   height: auto;
   left: 0px;
@@ -902,52 +775,191 @@
   line-height: normal;
   position: absolute;
   text-align: left;
-  top: 28px;
-  width: 164px;
+  top: 91px;
+  width: 155px;
 }
-.tomatometer .when-a-movie-co-equired-viewing-FXX1ZD {
+.tomatometer .terms-and-polic-i74398274171574-FR3M0S {
   background-color: transparent;
   height: auto;
   left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
   position: absolute;
-  top: 225px;
-  width: 343px;
+  text-align: left;
+  top: 43px;
+  width: 183px;
 }
-.tomatometer .wifi-1Kw3Q0 {
+.tomatometer .the-tomatometer-C61RwL {
   background-color: transparent;
-  height: 11px;
-  left: 19px;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: absolute;
-  top: 8px;
-  width: 14px;
+  text-align: left;
+  top: 179px;
+  width: 522px;
 }
-.tomatometer .x941-TsEUUy {
+.tomatometer .the-tomatometer-trusted-critics-C61RwL {
   background-color: transparent;
-  height: 11px;
-  left: 10px;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: absolute;
-  top: 4px;
-  width: 27px;
+  text-align: left;
+  top: 260px;
+  width: 705px;
 }
-.tomatometer .youtube-1-l4XUbi {
+.tomatometer .topnav-C61RwL {
   background-color: transparent;
-  height: 29px;
-  left: 160px;
-  object-fit: cover;
+  height: 66px;
+  left: 77px;
   position: absolute;
-  top: 5px;
+  top: 59px;
+  width: 1285px;
+}
+.tomatometer .tv-i74398285205245-3xHm95 {
+  background-color: transparent;
+  height: auto;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
   width: 35px;
 }
+.tomatometer .twitter-1-Z5w9Cx {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+.tomatometer .type-your-email-i74398274171550-zxDZGC {
+  background-color: transparent;
+  color: rgba(0,0,0,0.58);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+.tomatometer .type-your-email-i74398274171556-96tGoM {
+  background-color: transparent;
+  color: rgba(21,21,21,0.6);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+.tomatometer .unsubscribe-at-i74398274171562-vIO9jK {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+.tomatometer .untitled-artwork-5-4-C61RwL {
+  background-color: transparent;
+  height: 150px;
+  left: 940px;
+  object-fit: cover;
+  position: absolute;
+  top: 438px;
+  width: 150px;
+}
+.tomatometer .untitled-artwork-7-2-C61RwL {
+  background-color: transparent;
+  height: 163px;
+  left: 933px;
+  object-fit: cover;
+  position: absolute;
+  top: 220px;
+  width: 163px;
+}
+.tomatometer .untitled-artwork-9-3-C61RwL {
+  background-color: transparent;
+  height: 180px;
+  left: 930px;
+  object-fit: cover;
+  position: absolute;
+  top: 659px;
+  width: 180px;
+}
+.tomatometer .whats-the-tomat-i74398274171580-fie9Eg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  width: 239px;
+}
+.tomatometer .whats-the-tomat-i74398285205246-3xHm95 {
+  background-color: transparent;
+  height: auto;
+  left: 529px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: 363px;
+}
+.tomatometer .when-a-movie-co-equired-viewing-C61RwL {
+  background-color: transparent;
+  color: var(--soapstone);
+  font-family: 'Fira Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  top: 521px;
+  width: 758px;
+}
+.tomatometer .youtube-1-Z5w9Cx {
+  background-color: transparent;
+  height: 40px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 50px;
+}
 :root {
-  --barossa: rgba(71,5,44,1.0);
-  --black: rgba(6,2,5,1.0);
-  --black-2: rgba(0,0,0,1.0);
-  --licorice: rgba(21,21,21,1.0);
-  --licorice-2: rgba(21,21,21,0.1);
   --soapstone: rgba(255,249,252,1.0);
-  --soapstone-2: rgba(255,249,252,0.4);
-  --stack: rgba(135,139,136,1.0);
-  --white: rgba(255,255,255,1.0);
 }

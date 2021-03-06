@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/tomatometer.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Fira+Sans:700,600,400,400italic,500");
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0">
+    <input type="hidden" id="anPageName" name="page" value="tomatometer" />
+    <div class="container-center-horizontal">
+      <div class="tomatometer screen">
+        <div class="group-98-C61RwL">
+          <div class="rectangle-3-royatl"></div>
+          <div class="browse-movies-royatl">BROWSE MOVIES</div>
+        </div>
+        <div class="group-99-C61RwL">
+          <div class="rectangle-3-ZnSQrh"></div>
+          <div class="browse-tv-ZnSQrh">BROWSE TV</div>
+        </div>
+        <div class="the-tomatometer-C61RwL">THE TOMATOMETER</div>
+        <div class="certified-fresh-C61RwL firasans-semi-bold-soapstone-32px">CERTIFIED FRESH</div>
+        <div class="fresh-C61RwL firasans-semi-bold-soapstone-32px">FRESH</div>
+        <div class="rotten-C61RwL firasans-semi-bold-soapstone-32px">ROTTEN</div>
+        <div class="the-tomatometer-trusted-critics-C61RwL firasans-medium-soapstone-24px">
+          The tomatometer shows how many positive reviews a movie or television show recieves from our trusted critics.
+        </div>
+        <div class="see-a-score-of-sider-it-rotten-C61RwL firasans-normal-soapstone-20px">
+          <span class="span0-o9mHbc"
+            >See a score of 75? That means 75 percent of reviews for that movie or show were positive. </span
+          ><span class="span1-o9mHbc"
+            >Anything that recieves a rating of 60 or higher is FRESH. Only scored 45? Consider it ROTTEN. <br
+          /></span>
+        </div>
+        <div class="a-movie-needs-a-not-be-out-yet-C61RwL firasans-normal-soapstone-20px">
+          A movie needs at least 5 reviews to be scored, so if you don’t see a score it might not have enough reviews.
+          Or, it just might not be out yet.
+        </div>
+        <div class="when-a-movie-co-equired-viewing-C61RwL">
+          <span class="span0-JxMHrr"
+            >When a movie consistently scores a 75 or better and has been reviewed by at least 5 of our top critics we
+            call that CERTIFIED FRESH. </span
+          ><span class="span1-JxMHrr">When you see a movie that’s certified, consider it required viewing.<br /></span>
+        </div>
+        <div class="now-what-if-you-mean-i-will-too-C61RwL firasans-normal-soapstone-20px">
+          Now, what if you want to know what viewers like you think? Sure, the critics love it, but does that mean I
+          will too?
+        </div>
+        <div class="in-addition-to-ust-not-out-yet-C61RwL firasans-normal-soapstone-20px">
+          <span class="span0-fd3rP0">In addition to our critics, we also offer an </span
+          ><span class="span1-fd3rP0">audience score. If at least 60% percent of users give a positive rating</span
+          ><span class="span2-fd3rP0">, you better believe thats </span><span class="span3-fd3rP0">FRESH</span
+          ><span class="span4-fd3rP0">. On the flip side, if its </span
+          ><span class="span5-fd3rP0">mostly negative ratings</span
+          ><span class="span6-fd3rP0">, we’re going to have to call that </span><span class="span7-fd3rP0">ROTTEN</span
+          ><span class="span8-fd3rP0"
+            >. If there is no audience score, chances are the movie or show doesn’t have anough reviews or it’s just not
+            out yet.</span
+          >
+        </div>
+        <div class="now-that-youre-start-watching-C61RwL">
+          Now that you’re a tomatometer expert, go see whats fresh and start watching!
+        </div>
+        <img class="untitled-artwork-5-4-C61RwL" src="img/untitled-artwork-5-4@2x.svg" />
+        <img class="untitled-artwork-9-3-C61RwL" src="img/untitled-artwork-9-3@2x.svg" />
+        <img class="untitled-artwork-7-2-C61RwL" src="img/untitled-artwork-7-2@2x.svg" />
+        <div class="footer-C61RwL">
+          <div class="group-105-iPe1yZ">
+            <div class="help-i74398274171566-oCc29T firasans-normal-soapstone-18px">Help</div>
+            <div class="careers-i74398274171567-oCc29T firasans-normal-soapstone-18px">Careers</div>
+            <div class="news-i74398274171568-oCc29T firasans-normal-soapstone-18px">News</div>
+            <div class="feedback-i74398274171569-oCc29T firasans-normal-soapstone-18px">Feedback</div>
+          </div>
+          <div class="group-91-iPe1yZ">
+            <div class="follow-us-i74398274171571-xG8o79 firasans-normal-soapstone-18px">Follow Us</div>
+          </div>
+          <div class="group-104-iPe1yZ">
+            <div class="privacy-policy-i74398274171573-FR3M0S firasans-normal-soapstone-18px">Privacy Policy</div>
+            <div class="terms-and-polic-i74398274171574-FR3M0S firasans-normal-soapstone-18px">Terms and Policies</div>
+            <div class="do-not-sell-my-i74398274171575-FR3M0S firasans-normal-soapstone-18px">Do Not Sell My Info</div>
+            <div class="ad-choices-i74398274171576-FR3M0S firasans-normal-soapstone-18px">Ad Choices</div>
+          </div>
+          <div class="group-102-iPe1yZ">
+            <div class="about-rotten-to-i74398274171578-fie9Eg firasans-normal-soapstone-18px">
+              About Rotten Tomatotes
+            </div>
+            <div class="licensing-i74398274171579-fie9Eg firasans-normal-soapstone-18px">Licensing</div>
+            <div class="whats-the-tomat-i74398274171580-fie9Eg firasans-normal-soapstone-18px">
+              What’s the Tomatometer?
+            </div>
+            <div class="submit-a-review-i74398274171581-fie9Eg firasans-normal-soapstone-18px">Submit a Review</div>
+            <div class="our-critics-i74398274171582-fie9Eg firasans-normal-soapstone-18px">Our Critics</div>
+            <div class="advertise-i74398274171583-fie9Eg firasans-normal-soapstone-18px">Advertise</div>
+          </div>
+          <div class="rotten-tomatoes-i74398274171584-iPe1yZ firasans-semi-bold-soapstone-32px">
+            Rotten<br />Tomatoes
+          </div>
+          <div class="group-8-iPe1yZ">
+            <img class="facebook-new-1-Z5w9Cx" src="img/facebook-new-1@2x.svg" />
+            <img class="youtube-1-Z5w9Cx" src="img/youtube-1@2x.svg" />
+            <img class="twitter-1-Z5w9Cx" src="img/twitter-1@2x.svg" />
+          </div>
+          <img class="instagram-new-1-iPe1yZ" src="img/instagram-new-1@2x.svg" />
+          <div class="foot-iPe1yZ">
+            <div class="group-31-Nuwx1X">
+              <div class="sign-up-for-our-i74398274171547-yjzgNB">SIGN UP FOR OUR NEWSLETTER</div>
+              <div class="group-30-yjzgNB">
+                <div class="rectangle-30-zxDZGC"></div>
+                <div class="type-your-email-i74398274171550-zxDZGC">type your email address</div>
+                <div class="group-142-zxDZGC">
+                  <div class="rectangle-31-zH1Hpp"></div>
+                  <div class="sign-up-i74398274171553-zH1Hpp firasans-medium-soapstone-24px">SIGN UP</div>
+                </div>
+              </div>
+              <div class="group-142-yjzgNB">
+                <div class="rectangle-30-96tGoM"></div>
+                <div class="type-your-email-i74398274171556-96tGoM">type your email address</div>
+                <div class="group-142-96tGoM">
+                  <div class="rectangle-31-3MywgV"></div>
+                  <div class="sign-up-i74398274171559-3MywgV firasans-medium-soapstone-24px">SIGN UP</div>
+                </div>
+              </div>
+              <div class="group-141-yjzgNB">
+                <div class="get-all-of-the-i74398274171561-vIO9jK firasans-normal-soapstone-20px">
+                  Get all of the latest reviews and entertainment news delivered straight to your inbox!
+                </div>
+                <div class="unsubscribe-at-i74398274171562-vIO9jK firasans-normal-soapstone-20px">
+                  Unsubscribe at any time...we won’t take it personally.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="topnav-C61RwL">
+          <div class="frame-30-cRuLgm">
+            <div class="group-170-ZxLWy4">
+              <div class="movies-i74398285205244-3xHm95 firasans-bold-soapstone-28px">MOVIES</div>
+              <div class="tv-i74398285205245-3xHm95 firasans-bold-soapstone-28px">TV</div>
+              <div class="whats-the-tomat-i74398285205246-3xHm95 firasans-bold-soapstone-28px">
+                WHAT’S THE TOMATOMETER?
+              </div>
+              <div class="group-98-3xHm95">
+                <div class="group-92-MteJUS">
+                  <div class="rectangle-3-Rg99xF"></div>
+                  <div class="log-in-i74398285205250-Rg99xF">LOG IN</div>
+                </div>
+                <div class="group-97-MteJUS">
+                  <div class="rectangle-4-9nTUmx"></div>
+                  <div class="sign-up-i74398285205253-9nTUmx">SIGN UP</div>
+                </div>
+                <img class="icons8-search-240-1-MteJUS" src="img/icons8-search-240-1@2x.svg" />
+              </div>
+              <img class="rt-logo-1-3xHm95" src="img/rt-logo-1@2x.png" />
+            </div>
+            <img class="rt-logored-1-ZxLWy4" src="img/rt-logored-1@2x.svg" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
